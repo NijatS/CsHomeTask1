@@ -1,0 +1,15 @@
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\bin\Debug\net6.0\HomeTask1.exe
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\bin\Debug\net6.0\HomeTask1.deps.json
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\bin\Debug\net6.0\HomeTask1.runtimeconfig.json
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\bin\Debug\net6.0\HomeTask1.dll
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\bin\Debug\net6.0\HomeTask1.pdb
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\obj\Debug\net6.0\HomeTask1.csproj.AssemblyReference.cache
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\obj\Debug\net6.0\HomeTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\obj\Debug\net6.0\HomeTask1.AssemblyInfoInputs.cache
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\obj\Debug\net6.0\HomeTask1.AssemblyInfo.cs
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\obj\Debug\net6.0\HomeTask1.csproj.CoreCompileInputs.cache
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\obj\Debug\net6.0\HomeTask1.dll
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\obj\Debug\net6.0\refint\HomeTask1.dll
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\obj\Debug\net6.0\HomeTask1.pdb
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\obj\Debug\net6.0\HomeTask1.genruntimeconfig.cache
+C:\Users\Nijat\source\repos\HomeTask1\HomeTask1\obj\Debug\net6.0\ref\HomeTask1.dll
